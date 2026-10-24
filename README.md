@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/reel.svg" width="100%" alt="HovDor reeling in code"/>
+<img src="assets/scene.svg" width="100%" alt="HovDor — reeling in code"/>
 
-<img src="assets/log.svg" width="100%" alt="scarlet.log"/>
+<img src="assets/about.svg" width="100%" alt="about me"/>
+
+<a href="https://github.com/HovDor/Scarlet-Hub/releases/latest"><img src="assets/showcase.svg" width="100%" alt="Scarlet hub — fishing macro for Fisch"/></a>
 
 <br/>
 
