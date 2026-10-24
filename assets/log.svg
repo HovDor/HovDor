@@ -1,11 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="270" viewBox="0 0 860 270">
-<rect width="860" height="270" rx="14" fill="#0d0506"/>
-<rect x="1" y="1" width="858" height="268" rx="13" fill="none" stroke="#3a0b12"/>
-<rect x="1" y="1" width="858" height="38" rx="13" fill="#16070a"/>
-<rect x="1" y="26" width="858" height="13" fill="#16070a"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="270" viewBox="0 0 620 270">
+<rect width="620" height="270" rx="14" fill="#0d0506"/>
+<rect x="1" y="1" width="618" height="268" rx="13" fill="none" stroke="#3a0b12"/>
+<rect x="1" y="1" width="618" height="38" rx="13" fill="#16070a"/>
+<rect x="1" y="26" width="618" height="13" fill="#16070a"/>
 <circle cx="26" cy="20" r="6" fill="#e0243a"/><circle cx="46" cy="20" r="6" fill="#5a1a22"/><circle cx="66" cy="20" r="6" fill="#3a1418"/>
-<text x="430.0" y="25" text-anchor="middle" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="13" fill="#8a6b6e">scarlet.log — HovDor</text>
-<g font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="15">
+<text x="310.0" y="25" text-anchor="middle" font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="14" fill="#8a6b6e">scarlet.log — HovDor</text>
+<g font-family="Consolas, 'Cascadia Mono', Menlo, monospace" font-size="16">
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.04;0.06;.95;1" dur="12.0s" repeatCount="indefinite"/>
  <text x="34" y="82" fill="#8a6b6e">20:22</text><text x="100" y="82" fill="#e0243a">>>> RUNNING</text></g>
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.12;0.14;.95;1" dur="12.0s" repeatCount="indefinite"/>
